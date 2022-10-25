@@ -19,7 +19,7 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Mateus-pic" height="150" style="border-radius:50%px;" src="https://avatars.githubusercontent.com/u/108158412?v=4">
+  <img align="right" alt="Mateus-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/493296689357258763/1034291509488529408/IMG_20220814_120208_076.jpg?width=676&height=676">
 </div>
   
   ##
