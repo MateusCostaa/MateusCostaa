@@ -1,10 +1,8 @@
 ## Olá! eu sou Mateus Costa ✌🏽
 
-- 🔭 Hoje estou a procura de um emprego de Desenvolvedor Front-end
 - 🌱 Estou cursando Engenharia de Software
 - 🤔 Estou aprendendo Programação
 - 💬 Contate-me no email: mateusgrandc@gmail.com
-- 😄 Meu objetivo é ficar melhor a cada dia
 
 <div align="center">
   <a href="https://github.com/MateusCostaa">
