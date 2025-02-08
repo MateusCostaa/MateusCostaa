@@ -1,7 +1,7 @@
 ## Olá! eu sou Mateus Costa ✌🏽
 
-- 🌱 Estou cursando Engenharia de Software
-- 🤔 Estou aprendendo Programação
+- 🌱 Cursando Engenharia de Software
+- 🤔 Sempre buscando o proximo passo em Programação
 - 💬 Contate-me no email: mateusgrandc@gmail.com
 
 <div align="center">
